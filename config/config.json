@@ -1,0 +1,29 @@
+{
+  "iblocks": {
+    "2": {
+      "iblock_id": "2",
+      "sizes": [
+        [ 100, 100 ],
+        [ 500, 500 ]
+      ],
+      "format": "webp",
+      "quantity": 80,
+      "replace_original": "N",
+      "fields": [ "DETAIL_PICTURE" ],
+      "properties": [ 25 ]
+    },
+    "4" : {
+      "iblock_id": 4,
+      "sizes": [
+        [ 200, 500 ],
+        [ 100, 200 ]
+      ],
+      "format": "webp",
+      "quantity": 80,
+      "replace_original": "N",
+      "fields": [ "PREVIEW_PICTURE" ]
+    }
+  },
+  "log_file": "/local/logs/resizer.log",
+  "original_sizes": [ 1200, 1200 ]
+}
